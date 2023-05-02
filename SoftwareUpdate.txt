@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
