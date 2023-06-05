@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add docs guide terminal images (#8819)
