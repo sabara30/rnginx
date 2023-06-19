@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
