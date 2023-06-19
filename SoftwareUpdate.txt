@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
