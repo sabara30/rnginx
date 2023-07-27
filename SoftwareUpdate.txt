@@ -1,1 +1,1 @@
-fix print val map
+Add Weights & Biases Docs integrations page (#7199)
