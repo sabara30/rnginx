@@ -1,1 +1,1 @@
-example Google Colab
+Update Twitter icon in Docs (#7711)
