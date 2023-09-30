@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
