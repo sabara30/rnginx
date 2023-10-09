@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+YOLOv8 INT8 TFLite Inference Example (#7317)
