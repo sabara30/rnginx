@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix TypeError in check_cfg() (#9245)
