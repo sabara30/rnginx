@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Auto-format by https://ultralytics.com/actions
