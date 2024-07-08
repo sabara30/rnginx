@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
