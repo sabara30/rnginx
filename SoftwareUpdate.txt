@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
