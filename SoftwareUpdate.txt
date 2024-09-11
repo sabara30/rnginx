@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
